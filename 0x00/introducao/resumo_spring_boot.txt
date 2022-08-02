@@ -1,0 +1,3 @@
+O Spring Boot é um Framework Java que facilita o desenvolvimento na linguagem, reduzindo tempo com configurações iniciais e execução imediata. Além disso, permite criar aplicações autossuficientes, configurações de bibliotecas automáticas e sem necessidade de configurar XML e geração de código.
+A melhor IDE para uso seria Spring Tools devido seu funcionamento voltado para utilização do Framework
+O Spring Initializr é uma interface web que pode gerar as configurações para o usuário.
