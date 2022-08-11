@@ -3,7 +3,7 @@ package com.example.calculator.model;
 import java.time.LocalDate;
 import java.util.*;
 
-public class Calculator {
+public class CalculatorTest {
 
     public Double sum(Double number1, Double number2) {
         // TODO
