@@ -1,10 +1,12 @@
 package com.example.calculator.model;
 
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class CalculatorTest {
 
     @Test
+    @BeforeEach
     void sumTest() {
         // TODO
     }
