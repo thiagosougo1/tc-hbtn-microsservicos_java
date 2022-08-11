@@ -10,6 +10,7 @@ public class CalculatorTest {
     }
 
     @Test
+    @BeforeEach
     public void numbersNullSumTest() {
         // TODO
     }
